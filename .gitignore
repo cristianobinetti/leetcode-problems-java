@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-.out
+/out
+src/Main.java
 
 # Log file
 *.log
@@ -26,4 +27,4 @@ replay_pid*
 
 #IntelliJ
 .idea
-.iml
+leetcode-problems-java.iml
